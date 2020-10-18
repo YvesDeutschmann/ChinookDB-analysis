@@ -11,3 +11,4 @@ This project focusses on the analysis of the ChinookDB - the database of an onli
 ## Files
 - **results.pdf** - PDF file adressing the answers to above questions
 - **queries.sql** - textfile containing the SQL queries used to answer above questions
+- **chinook.db** - SQL database containing all data of the music store
